@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/datagile-test-task/static/css/main.d3043fbb.css",
+    "main.js": "/datagile-test-task/static/js/main.8cf592a5.js",
+    "static/js/787.1d85d092.chunk.js": "/datagile-test-task/static/js/787.1d85d092.chunk.js",
+    "index.html": "/datagile-test-task/index.html",
+    "main.d3043fbb.css.map": "/datagile-test-task/static/css/main.d3043fbb.css.map",
+    "main.8cf592a5.js.map": "/datagile-test-task/static/js/main.8cf592a5.js.map",
+    "787.1d85d092.chunk.js.map": "/datagile-test-task/static/js/787.1d85d092.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3043fbb.css",
+    "static/js/main.8cf592a5.js"
+  ]
+}
