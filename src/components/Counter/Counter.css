@@ -1,0 +1,31 @@
+.counter {
+  padding: 30px;
+  margin: 0 15px 20px 0;
+  border: 1px solid #000;
+  box-shadow: 1px 2px rgba(0, 0, 0, 0.335);
+}
+
+.counter_inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.counter button {
+  padding: 15px;
+  background-color: #000;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 30px;
+}
+
+.counter_options button {
+  display: inline-block;
+  margin: 15px;
+  padding: 20px 30px;
+  cursor: pointer;
+  border: none;
+  color: #ffffff;
+  background-color: rgb(60, 137, 137);
+  border-radius: 15px;
+}
