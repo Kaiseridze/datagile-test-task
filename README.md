@@ -1,6 +1,7 @@
-# Datagile Trst Task
+# Datagile Test Task
 
-*Watch demo*:
+## *[Watch Demo](https://kaiseridze.github.io/datagile-test-task/ "Link to demo")*
+
 ###  Functionality:
 * Create counter
 * Delete counter
