@@ -1,5 +1,4 @@
 # Datagile Test Task
-=======
 
 ## *[Watch Demo](https://kaiseridze.github.io/datagile-test-task/ "Link to demo")*
 
