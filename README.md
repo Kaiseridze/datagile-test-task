@@ -1,4 +1,4 @@
-# Datagile Trst Task
+# Datagile Test Task
 
 *Watch demo*:
 ###  Functionality:
